@@ -1,0 +1,24 @@
+{
+  "name": "reco-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjeetRaj/Reco-system.git"
+  },
+  "author": "\"Manjeet raj\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/ManjeetRaj/Reco-system/issues"
+  },
+  "homepage": "https://github.com/ManjeetRaj/Reco-system#readme"
+}
